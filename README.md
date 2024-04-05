@@ -18,13 +18,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-'''a= input()
+###a= input()
 b=input()
 t =a
 a=b
 b=t
 print("Swapped values are: {} {}".format(a,b))
-'''
+###
 
 OUTPUT:
 ![image](https://github.com/23002248/Swapping-two-values/assets/151701774/01c66449-12c0-438d-91e7-4db223c15988)
